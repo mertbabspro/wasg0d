@@ -14,7 +14,7 @@ function sleep(ms) {
 function startBot() {
   const bot = mineflayer.createBot({
     host: 'zurnacraft.net',
-    username: 'ytufgeasx',
+    username: 'wasg0d',
     version: false
   })
 
@@ -22,7 +22,7 @@ function startBot() {
     console.log('Sunucuya girildi.')
     await sleep(3000)
 
-    bot.chat('/login benbitben')
+    bot.chat('/login allahuekber')
     console.log('Login atıldı')
     await sleep(3000)
 
